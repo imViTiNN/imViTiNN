@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Boas vindas ao meu perfil 💙💙
+
+Boas vindas ao meu perfil 💙💙
+
 Meu nome é Vitor Hugo A. Moreira
 
 Estou estudando na Alura
